@@ -1,6 +1,7 @@
 {
   "name": "content-wind-template",
   "private": true,
+  "packageManager": "npm",
   "scripts": {
     "dev": "nuxi dev",
     "build": "nuxi build",
